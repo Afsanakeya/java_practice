@@ -4,6 +4,7 @@ public class switchmethod {
 
 	public static void main(String[] args) {
 		int age=5;
+		
 		switch(age) {
 		case 1:
 			System.out.println("you are big enough");
