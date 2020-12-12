@@ -11,7 +11,7 @@ public class forloop {
 		
 	int i=10;
 	while(i<=50) {
-		System.out.println("hello keya");
+		System.out.println(i);
 		i=i+2;
 	}
 			

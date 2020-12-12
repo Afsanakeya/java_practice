@@ -16,6 +16,9 @@ public class substring {
 	System.out.println(st1.substring(7));
 	System.out.println(st1.substring(7,15));
 	
+	String st2="i am keya";
+	System.out.println(st2.substring(5));
+	System.out.println(st2.substring(2, 5));
 	}
 
 }

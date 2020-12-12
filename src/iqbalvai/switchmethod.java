@@ -3,7 +3,7 @@ package iqbalvai;
 public class switchmethod {
 
 	public static void main(String[] args) {
-		int age=5;
+		int age=3;
 		
 		switch(age) {
 		case 1:

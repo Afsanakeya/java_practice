@@ -22,7 +22,7 @@ public class ifelseexample {
 	int age=17;
 	String gender="female";
 	String color="W";
-	if(age>=18&&gender=="female"&&color=="Black"){
+	if(age>=17&&gender=="female"&&color=="w"){
 	
 	System.out.println("welcome");
 	

@@ -12,7 +12,7 @@ public class concatenation {
 	
 	public static void main(String[] args) {
 	String lastname="keya";
-    String firstname="Afsna";
+    String firstname="Afsana";
 	String middlename="Sultna";
 	System.out.println(lastname+" "+firstname+" "+middlename);
 	
